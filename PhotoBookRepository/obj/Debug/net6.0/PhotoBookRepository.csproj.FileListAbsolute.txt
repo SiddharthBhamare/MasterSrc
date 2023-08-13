@@ -1,0 +1,12 @@
+C:\Users\bhama\source\repos\PhotoBookRepository\bin\Debug\net6.0\PhotoBookRepository.deps.json
+C:\Users\bhama\source\repos\PhotoBookRepository\bin\Debug\net6.0\PhotoBookRepository.dll
+C:\Users\bhama\source\repos\PhotoBookRepository\bin\Debug\net6.0\PhotoBookRepository.pdb
+C:\Users\bhama\source\repos\PhotoBookRepository\obj\Debug\net6.0\PhotoBookRepository.csproj.AssemblyReference.cache
+C:\Users\bhama\source\repos\PhotoBookRepository\obj\Debug\net6.0\PhotoBookRepository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bhama\source\repos\PhotoBookRepository\obj\Debug\net6.0\PhotoBookRepository.AssemblyInfoInputs.cache
+C:\Users\bhama\source\repos\PhotoBookRepository\obj\Debug\net6.0\PhotoBookRepository.AssemblyInfo.cs
+C:\Users\bhama\source\repos\PhotoBookRepository\obj\Debug\net6.0\PhotoBookRepository.csproj.CoreCompileInputs.cache
+C:\Users\bhama\source\repos\PhotoBookRepository\obj\Debug\net6.0\PhotoBookRepository.dll
+C:\Users\bhama\source\repos\PhotoBookRepository\obj\Debug\net6.0\refint\PhotoBookRepository.dll
+C:\Users\bhama\source\repos\PhotoBookRepository\obj\Debug\net6.0\PhotoBookRepository.pdb
+C:\Users\bhama\source\repos\PhotoBookRepository\obj\Debug\net6.0\ref\PhotoBookRepository.dll
