@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dXZnpEY2Rnm3cCj8ltTkiBDIaZygU9BDnLnB//v55rCW4NCRHqG+XlVKeNb1OV2Li3nkrMIPh9H+Z4lsj2Knqg==",
+  "dgSpecHash": "drG9MWr68SDXpDuq0Z8GO5MeeC/w1KskpuQ6iT+SLudpSjcb1WZhrO6x5NJWAcSXSqpgaWYuN5tAgwv79BRd3w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\bhama\\source\\repos\\PhotoBookWebApp\\PhotoBookWeb\\PhotoBookWeb.csproj",
+  "projectFilePath": "C:\\Users\\bhama\\source\\repos\\PhotoBookMaster\\PhotoBookWeb\\PhotoBookWeb.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\bhama\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\bhama\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
