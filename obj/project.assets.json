@@ -11553,11 +11553,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bhama\\source\\repos\\PhotoBookWeb\\PhotoBookWeb.csproj",
+      "projectUniqueName": "C:\\Users\\bhama\\source\\repos\\PhotoBookWebApp\\PhotoBookWeb\\PhotoBookWeb.csproj",
       "projectName": "PhotoBookWeb",
-      "projectPath": "C:\\Users\\bhama\\source\\repos\\PhotoBookWeb\\PhotoBookWeb.csproj",
+      "projectPath": "C:\\Users\\bhama\\source\\repos\\PhotoBookWebApp\\PhotoBookWeb\\PhotoBookWeb.csproj",
       "packagesPath": "C:\\Users\\bhama\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bhama\\source\\repos\\PhotoBookWeb\\obj\\",
+      "outputPath": "C:\\Users\\bhama\\source\\repos\\PhotoBookWebApp\\PhotoBookWeb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bhama\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11575,11 +11575,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\bhama\\source\\repos\\PhotoBookRepository\\PhotoBookRepository.csproj": {
-              "projectPath": "C:\\Users\\bhama\\source\\repos\\PhotoBookRepository\\PhotoBookRepository.csproj"
+            "C:\\Users\\bhama\\source\\repos\\PhotoBookWebApp\\PhotoBookRepository\\PhotoBookRepository.csproj": {
+              "projectPath": "C:\\Users\\bhama\\source\\repos\\PhotoBookWebApp\\PhotoBookRepository\\PhotoBookRepository.csproj"
             },
-            "C:\\Users\\bhama\\source\\repos\\PhotoBookWebService\\PhotoBookWebService.csproj": {
-              "projectPath": "C:\\Users\\bhama\\source\\repos\\PhotoBookWebService\\PhotoBookWebService.csproj"
+            "C:\\Users\\bhama\\source\\repos\\PhotoBookWebApp\\PhotoBookWebService\\PhotoBookWebService.csproj": {
+              "projectPath": "C:\\Users\\bhama\\source\\repos\\PhotoBookWebApp\\PhotoBookWebService\\PhotoBookWebService.csproj"
             }
           }
         }
